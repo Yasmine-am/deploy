@@ -1,5 +1,8 @@
 Flask
-BeautifulSoup
+beautifulsoup4
 json
 pandas
 requests
+mysql.connector
+csv
+re
