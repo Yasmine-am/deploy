@@ -1,6 +1,5 @@
 Flask
-beautifulsoup4
-json
+bs4
 pandas
 requests
 mysql.connector
